@@ -1,0 +1,5 @@
+# Python 3.11.x
+whl/tflite_runtime-2.13.0-cp311-cp311-win_amd64.whl
+opencv-python
+tensorflow
+mediapipe
